@@ -1,5 +1,7 @@
-## Hi there 👋
-
+## 大家早上中午晚上好 👋
+## 咱也不知道写什么，从小到大都不擅长写自我介绍
+## 要说什么人生的顿悟也是没有的，只感觉每天都有其意义，但是让我说我是说不出来的
+## 那就在这祝大家的日子越来越有看头！
 <!--
 **wxwxwkai/.github** is a ✨ _special_ ✨ repository because its `profile/README.md` (this file) appears on your GitHub profile.
 
